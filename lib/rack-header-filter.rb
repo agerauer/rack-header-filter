@@ -1,0 +1,1 @@
+require 'rack/header_filter'
